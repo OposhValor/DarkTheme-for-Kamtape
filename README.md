@@ -3,6 +3,18 @@ It is the dark theme made with usage of extension called Stylus for website KamT
 
 The theme itself is updated both here and also on userstyle.world
 
+
+### Note
+
+It is required to have Stylus extension installed in order to make it work.
+
+
+Google Chrome: https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
+
+
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us
+
+
 # Warning!
 
-It isn't official theme made for it nor affilatied with official creators of KamTape so if things will break one day - It's not my fault for that.
+It isn't official theme made for it nor it is affiliated with official creators of KamTape so if things will break suddenly one day - It's not my fault for that.
