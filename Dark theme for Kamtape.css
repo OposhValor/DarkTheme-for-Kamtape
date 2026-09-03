@@ -1,4 +1,4 @@
- a:link,
+a:link,
 a:visited,
 a:active {
     color: #468F6D;
@@ -121,9 +121,6 @@ display:none;
 
 
 
-.hpPurpleBlock { /*! background: #3B3C3F url(/img/pic_blue_top_300x400.gif) top left no-repeat; */ padding: 8px 10px 10px 10px; margin-bottom: 0px; background-color: rgb(41, 41, 41);}
-
-
 .catEntry {
 	position: relative;
 	width: 174px;
@@ -185,6 +182,8 @@ h1,h2,h3,h4,h5,h6 {
 
 .pagingDiv {
   background: #252525;
+    border: #3D3D3D;
+    border-style:groove;
 }
 
 #hpSmallTabsContainer li.hilite {
@@ -245,7 +244,7 @@ h1,h2,h3,h4,h5,h6 {
 
 
 a.dg, span {
-    color: #468F6D;
+    color: #3E7B5F;
 }
 
 #vResponseHeading {
@@ -284,7 +283,8 @@ img.videobarthumbnail_white {
 
 
 #logoTagDiv a img {
-    content: url(https://i.imgur.com/2cdPiyY.gif);
+    content: url(https://imgup.uk/i/uh2HD5cf.gif);
+    height:53px;
 }
 
 #siSignupDiv form {
@@ -364,11 +364,6 @@ body {
 
 .hpBlockHeading { font-size: 16px; font-weight: bold; padding-bottom: 5px; color: currentColor;}
 
-.hpPurpleBlock {
-    /*! background: #B6C2E5 url(/img/pic_blue_top_300x400.gif) top left no-repeat; */
-    padding: 8px 10px 10px 10px;
-    margin-bottom: 0px;
-}
 
 #hpEmbedUnderBlock {
   padding-top: 5px;
@@ -403,7 +398,7 @@ body {
 
 .hpPurpleBlock {
   background: linear-gradient(#4C4A4C, #000);
-    background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
   padding: 8px 10px 10px 10px;
   margin-bottom: 0px;
     
@@ -483,9 +478,6 @@ h1,h2,h3,h4,h5,h6 {
 	color: #d4d4d4;
 	}
 
-.pagingDiv {
-  background: #252525;
-}
 
 #hpSmallTabsContainer li.hilite {
   display: inline;
@@ -544,10 +536,6 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 
-a.dg, span {
-    color: #468F6D;
-}
-
 #vResponseHeading {
   background: linear-gradient(#4C4A4C, #000);
 }
@@ -583,9 +571,6 @@ img.videobarthumbnail_white {
 
 
 
-#logoTagDiv a img {
-    content: url(https://i.imgur.com/2cdPiyY.gif);
-}
 
 #siSignupDiv form {
   border: 1px solid #185231;
@@ -635,4 +620,46 @@ img[src="/img/pic_subsbox_top_555x7.png"] {
 
 #vbror {
     margin-top:-15px;
+}
+
+#manageContent .controls {
+    border: 3px solid #262525;
+    background: #272626;
+}
+
+#manageNav .selected {
+  background: #303030;
+}
+
+#manageContent {
+    border: 3px solid #3D3D3D;
+}
+
+.contentBox {
+	padding: 6px; 
+	/*! border: 1px solid #CCC; */
+	}
+
+.eeeBG {
+  background: #2B2B2B;
+}
+
+#localePickerBox {
+    background-color: #302E2E;
+}
+
+#iconMail {
+    content:url(https://imgup.uk/i/u6HPX13d.gif);
+}
+
+#gNavDiv #upload img {
+        content:url(https://imgup.uk/i/vMnWzrRa.png);
+} 
+
+.label img {
+    content:url(https://imgup.uk/i/j5bLVOUr.png);
+}
+
+img.rating {
+    content:url(https://imgup.uk/i/iNOCVqp8.gif);
 }
