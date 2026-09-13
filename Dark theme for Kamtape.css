@@ -132,9 +132,10 @@ display:none;
 	}
 
 .catBox {
-	padding: 8px 0px 0px 8px;
-	height: 100px;
+    background:url(https://imgup.uk/i/0Wwu5Xbd.gif);
+    background-repeat: repeat-x;
     background-color: rgb(35,35,35);
+    position:relative;
 	}
 
 
@@ -615,11 +616,21 @@ img[src="/img/pic_subsbox_top_555x7.png"] {
 }
 
 #vbrol {
+    content:url(https://imgup.uk/i/rAsNuw8P.gif);
     margin-top:-15px;
 }
 
+#vbrol:hover  {
+    content:url(https://imgup.uk/i/m4GyRhvD.gif);
+}
+
 #vbror {
+    content:url(https://imgup.uk/i/3kgA4mGn.gif);
     margin-top:-15px;
+}
+
+#vbror:hover {
+    content:url(https://imgup.uk/i/iipB80Ky.gif);
 }
 
 #manageContent .controls {
@@ -662,4 +673,9 @@ img[src="/img/pic_subsbox_top_555x7.png"] {
 
 img.rating {
     content:url(https://imgup.uk/i/iNOCVqp8.gif);
+}
+
+
+.formFieldInfo {
+    color:#dcdcdc;
 }
