@@ -10,6 +10,12 @@ The theme itself is updated both here and also on userstyle.world:
 https://userstyles.world/style/29505
 
 
+# Warning!
+
+It isn't official theme made for it nor it is affiliated with official creators of KamTape so if things will break suddenly one day - It's not my fault for that.
+
+
+
 ### Note
 
 It is required to have Stylus extension installed in order to make it work.
@@ -19,8 +25,3 @@ Google Chrome: https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjc
 
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us
-
-
-# Warning!
-
-It isn't official theme made for it nor it is affiliated with official creators of KamTape so if things will break suddenly one day - It's not my fault for that.
