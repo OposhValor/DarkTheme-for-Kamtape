@@ -7,7 +7,7 @@ It is the dark theme made with usage of extension called Stylus for website KamT
 
 The theme itself is updated both here and also on userstyle.world:
 
-https://userstyles.world/style/29505/default-slug
+https://userstyles.world/style/29505
 
 
 ### Note
