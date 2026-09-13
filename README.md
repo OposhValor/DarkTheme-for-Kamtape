@@ -12,7 +12,7 @@ https://userstyles.world/style/29505
 
 # Warning!
 
-It isn't official theme made for it nor it is affiliated with official creators of KamTape so if things will break suddenly one day - It's not my fault for that.
+It isn't official theme made for it nor it is affiliated with official creators of KamTape so if things will break suddenly one day - It's not my fault for that, but will make sure to repair if it is possible within CSS or maybe JS if would come to that.
 
 
 
