@@ -1,7 +1,9 @@
 # Dark-theme-for-KamTape
 It is the dark theme made with usage of extension called Stylus for website KamTape.
 
-The theme itself is updated both here and also on userstyle.world
+The theme itself is updated both here and also on userstyle.world:
+
+https://userstyles.world/style/29505/default-slug
 
 
 ### Note
