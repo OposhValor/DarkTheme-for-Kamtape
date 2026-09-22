@@ -29,7 +29,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     background-color: rgb(30,30,30);
-    color: #b8b8b8;
+    color: #cfcfcf;
 }
 
 #hpMainContent {
@@ -285,7 +285,7 @@ img.videobarthumbnail_white {
 
 #logoTagDiv a img {
     content: url(https://imgup.uk/i/uh2HD5cf.gif);
-    height:53px;
+    height:51px;
 }
 
 #siSignupDiv form {
@@ -672,7 +672,7 @@ img[src="/img/pic_subsbox_top_555x7.png"] {
 }
 
 img.rating {
-    content:url(https://imgup.uk/i/iNOCVqp8.gif);
+    content:url(https://imgup.uk/i/ttI1Ozih.gif);
 }
 
 
@@ -680,6 +680,87 @@ img.rating {
     color:#dcdcdc;
 }
 
-.channelMastheadTable {
-    color:#41b040;
+a.masthead:visited {
+  color: #32A268;
+}
+
+a.headerLink:visited {
+  color: #287543;
+}
+
+a.headerLink:link {
+  color: #287543;
+}
+
+a.expandLink:link {
+  color: #b3b2b2;
+  text-decoration: none;
+  vertical-align: text-bottom;
+}
+
+
+#ratingAndStatsDiv .viewCount .statLabel {
+  margin: 0px 0px 0px 0px;
+  color: #979797 !important;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: -4px;
+}
+
+span.viewCount {
+    color: #979797 !important;
+}
+
+#channelVidsDiv {
+  background: #454343;
+  border: 1px solid #CCC;
+}
+
+
+.expand-container a.expand-header, .expand-container a.expand-header:link, .expand-contianer a.expand-header:visited {
+  color: #aaa;
+  text-decoration: none;
+  vertical-align: text-bottom;
+}
+
+.notopbox {
+  background: #161616;
+}
+
+#notopbox {
+  background: #1e1d1d;
+}
+
+.icn_star_grey_empty_11x11gif {
+  	/*! background: transparent url(/img/master.gif?v=2) no-repeat scroll -461px -11px; */;
+  width: 11px;
+  height: 11px;
+}
+
+.normalLabel {
+  font-size: 12px;
+  font-weight: bold;
+  color: #c7c3c3;
+}
+
+#vResponseParent {
+  background-color: #343434;
+}
+
+.phUsername {
+    color:#bebcbc !important;
+    /*! color:black; */;
+}
+
+.recentRatingEntry {
+    content:url(https://imgup.uk/i/ttI1Ozih.gifhttps://imgup.uk/i/ttI1Ozih.gif);
+}
+
+img#star__1 #star__2 #star__3 #star__4 #star__5 {
+  /*! background: transparent url(/img/master.gif?v=2) no-repeat scroll -373px -38px; */;
+  content:url(https://imgup.uk/i/ttI1Ozih.gif);
+}
+
+.icn_star_full_19x20png {
+    background:transparent;
 }
