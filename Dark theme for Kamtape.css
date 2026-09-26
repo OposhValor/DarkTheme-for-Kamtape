@@ -1,4 +1,4 @@
-a:link,
+:link,
 a:visited,
 a:active {
     color: #468F6D;
@@ -760,6 +760,7 @@ img#star__1 #star__2 #star__3 #star__4 #star__5 {
   /*! background: transparent url(/img/master.gif?v=2) no-repeat scroll -373px -38px; */;
   content:url(https://imgup.uk/i/ttI1Ozih.gif);
 }
+
 
 .icn_star_full_19x20png {
     background:transparent;
