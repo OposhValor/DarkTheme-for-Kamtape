@@ -1,6 +1,7 @@
 # Dark-theme-for-KamTape
 
-<img width="1192" height="992" alt="image" src="https://github.com/user-attachments/assets/a423608c-bc6c-4d42-8e15-1f123cdf6537" />
+<img width="1289" height="992" alt="image" src="https://github.com/user-attachments/assets/ec4f3529-ffb8-485a-b74e-0a9a7472aa03" />
+
 
 
 
