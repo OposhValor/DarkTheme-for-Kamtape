@@ -4,6 +4,15 @@ a:active {
     color: #468F6D;
 }
 
+/*for Halloween to change: #logoTagDiv a img {
+  content: url(https://imgup.uk/i/WU4SWV7w.gif);
+  height: 51px; */
+
+/*For normal Logo: #logoTagDiv a img {
+  content: url(https://imgup.uk/i/jFLtYDQl.png);
+  height: 51px; */
+
+
 #gNavDiv .tab_label {
     margin: 0.5em 0em 0em 0em;
     font-size: 1em;
@@ -285,8 +294,7 @@ img.videobarthumbnail_white {
 
 
 #logoTagDiv a img {
-    content: url(https://imgup.uk/i/jFLtYDQl.png);
-    height:51px;
+    content: url(https://imgup.uk/i/WU4SWV7w.gif);
 }
 
 #siSignupDiv form {
@@ -666,7 +674,7 @@ img[src="/img/pic_subsbox_top_555x7.png"] {
 }
 
 #gNavDiv #upload img {
-        content:url(https://imgup.uk/i/vMnWzrRa.png);
+        border-radius:12px;
 } 
 
 .label img {
@@ -845,6 +853,8 @@ background: transparent url(https://imgup.uk/i/9dNZCpRG.gif) no-repeat scroll;
     background: transparent url(https://imgup.uk/i/XNtlORyc.gif) no-repeat scroll -309px 0px;
 }
 
+
+
 #i4 {
      /*! background: transparent url(/img/master.gif?v=2) no-repeat scroll -331px 0px; */
     background: transparent url(https://imgup.uk/i/XNtlORyc.gif) no-repeat scroll -331px 0px;
@@ -860,3 +870,63 @@ tbody {
     border-color:#006f00;
     border-style:ridge;
 }
+
+/*Ratings below videos - code by Lullaby*/
+.icn_star_grey_full_11x11gif {
+    background: transparent url(/img/master.gif?v=2) no-repeat scroll -439px 0px;
+}
+
+.icn_star_grey_empty_11x11gif {
+    background: transparent url(/img/master.gif?v=2) no-repeat scroll -461px 0px;
+}
+
+.recentRatingEntry div .rating {
+    display: initial;
+    padding-left: 0;
+    box-sizing: initial;
+    overflow: initial;
+}
+
+/*Ratings below thumbnails - code by Lullaby*/
+img.rating {
+    display: inline-grid;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding-left: 11px;
+    width: 11px;
+    height: 11px;
+}
+
+img.rating[src="/img/pic_star_on_11x11.gif"] {
+    background: transparent url(/img/master.gif?v=2) no-repeat scroll -439px 0px;
+}
+
+img.rating[src="/img/pic_star_half_11x11.gif"] {
+    background: transparent url(/img/master.gif?v=2) no-repeat scroll -450px 0px;
+}
+
+img.rating[src="/img/pic_star_off_11x11.gif"] {
+    background: transparent url(/img/master.gif?v=2) no-repeat scroll -461px 0px;
+}
+
+/*Fix the ratings for the big featured video - code by Lullaby*/
+#ratingDiv div a .rating {
+    display: initial;
+    padding: 0px;
+    width: initial;
+    height: initial;
+    box-sizing: initial;
+}
+
+/*Fix the player page rating menu - code by Lullaby*/
+.icn_star_full_19x20png, .icn_star_empty_19x20png {
+    width: 19px !important;
+    height: 20px !important;
+}
+
+img.rating[src="img/icn_star_full_19x20.png"], img.rating[src="img/icn_star_empty_19x20.png"] {
+    padding-left: 0;
+    width: 19px !important;
+    height: 20px !important;
+}
+ 
