@@ -931,3 +931,14 @@ img.rating[src="img/icn_star_full_19x20.png"], img.rating[src="img/icn_star_empt
 .confirmBox {
     color:#5ccd78;
 }
+
+.hpYellowBlock {
+  padding: 10px 15px 0px 15px;
+  margin-bottom: 0px;
+  border-style: groove;
+  background: linear-gradient(#cbc02259, #c7811587, #131212) top left no-repeat;
+}
+
+img[style="display: block;"] {
+    content:url();
+}
