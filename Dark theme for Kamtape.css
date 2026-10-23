@@ -1,7 +1,5 @@
-a:link,
-a:visited,
-a:active {
-    color: #468F6D;
+a:link, a:visited, a:active {
+  color: #4FCB91;
 }
 
 /*for Halloween to change: #logoTagDiv a img {
@@ -301,11 +299,6 @@ img.videobarthumbnail_white {
   border: 1px solid #185231;
   background-color: #363636;
   padding: 10px;
-}
-a:link,
-a:visited,
-a:active {
-    color: #468F6D;
 }
 
 #gNavDiv .tab_label {
@@ -929,4 +922,12 @@ img.rating[src="img/icn_star_full_19x20.png"], img.rating[src="img/icn_star_empt
     width: 19px !important;
     height: 20px !important;
 }
+
+#active_sharing_div {
+    background-color:green;
+}
  
+
+.confirmBox {
+    color:#5ccd78;
+}
