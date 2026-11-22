@@ -251,11 +251,6 @@ h1,h2,h3,h4,h5,h6 {
   border: 1px #ccc solid;
 }
 
-
-a.dg, span {
-    color: #3E7B5F;
-}
-
 #vResponseHeading {
   background: linear-gradient(#4C4A4C, #000);
 }
@@ -292,7 +287,8 @@ img.videobarthumbnail_white {
 
 
 #logoTagDiv a img {
-    content: url(https://imgup.uk/i/WU4SWV7w.gif);
+  content: url(https://imgup.uk/i/jFLtYDQl.png);
+  height: 51px;
 }
 
 #siSignupDiv form {
@@ -941,4 +937,20 @@ img.rating[src="img/icn_star_full_19x20.png"], img.rating[src="img/icn_star_empt
 
 img[style="display: block;"] {
     content:url();
+}
+
+p, li {
+  color: #e3e3e3;
+}
+
+#pageContainer {
+  background-color: #4c4b4b;
+  border-style: ridge;
+  border-radius: 10px;
+}
+
+.date {
+  font-size: 14px;
+  color: #cdcdcd;
+  margin-top: 0px;
 }
